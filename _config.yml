@@ -1,0 +1,8 @@
+title: "ゴルフ日和"
+description: "ゴルフを練習中の日々を、ゆるく記録していくブログです。"
+theme: minima
+baseurl: "/golf-biyori"
+show_excerpts: true
+lang: ja
+minima:
+  skin: classic
